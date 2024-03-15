@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maciej Kuźmicki</h1>
 <h3 align="center">Student of Applied Computer Science at Warsaw University of Technology</h3>
 
-- 🌱 I’m currently learning **Angular, Java Spring**
+- 🌱 I’m currently learning **React, React Native, .NET ML**
 
 - 📫 How to reach me **mkuzmicki2002@gmail.com**
 
